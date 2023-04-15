@@ -1,6 +1,6 @@
 # Embedded-Systems
 
-M5 Stack Core2 device projects written in C++ utilizing Arduino libraries
+M5 Stack Core2 device projects
 
 ### Weather Program v1
 HTTP API get request to get the weather based on a zipcode
